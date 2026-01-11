@@ -1,0 +1,8 @@
+Python: 3.12.3
+PyTorch: 2.5.1+cu124
+Scikit-Learn: 1.6.1
+NumPy: 2.0.2
+Pandas: 2.2.3
+Torchvision: 0.20.1+cu124
+Tqdm: 4.67.1
+Pillow: 10.2.0
